@@ -1,0 +1,6 @@
+.venv
+.env
+# git init
+# git add .
+# git commit -m "Python basics"
+# git remote add origin https://github.com/esthermaina378/Intro-to-Python.git

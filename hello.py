@@ -1,0 +1,7 @@
+print("Esther Maina")
+print(12345)
+print("Hello World!")
+print(8*9,3+4)
+print(10/3)
+print(10/3.0)
+# print(10/0)
